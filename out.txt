@@ -1,0 +1,275 @@
+Image: 0
+Pixels where LIME and SHAP agree: 554 (15.561797752808989%)
+Pixels where LIME and RISE agree: 682 (19.15730337078652%)
+Pixels where RISE and SHAP agree: 862 (24.213483146067414%)
+Pixels where all 3 methods agree: 296 (8.314606741573034%)
+Image: 1
+Pixels where LIME and SHAP agree: 1572 (30.524271844660195%)
+Pixels where LIME and RISE agree: 2006 (38.95145631067961%)
+Pixels where RISE and SHAP agree: 1516 (29.436893203883496%)
+Pixels where all 3 methods agree: 983 (19.0873786407767%)
+Image: 2
+Pixels where LIME and SHAP agree: 2600 (34.067085953878404%)
+Pixels where LIME and RISE agree: 1026 (13.443396226415095%)
+Pixels where RISE and SHAP agree: 1268 (16.61425576519916%)
+Pixels where all 3 methods agree: 519 (6.800314465408805%)
+Image: 3
+Pixels where LIME and SHAP agree: 1421 (26.740684983063606%)
+Pixels where LIME and RISE agree: 1076 (20.248400451637185%)
+Pixels where RISE and SHAP agree: 681 (12.815205118554761%)
+Pixels where all 3 methods agree: 370 (6.962739932254422%)
+Image: 4
+Pixels where LIME and SHAP agree: 839 (15.82123326419008%)
+Pixels where LIME and RISE agree: 1287 (24.26928153875165%)
+Pixels where RISE and SHAP agree: 1381 (26.04186309636055%)
+Pixels where all 3 methods agree: 161 (3.0360173486705637%)
+Image: 5
+Pixels where LIME and SHAP agree: 1772 (36.6949679022572%)
+Pixels where LIME and RISE agree: 1415 (29.30213294677987%)
+Pixels where RISE and SHAP agree: 1216 (25.18119693518327%)
+Pixels where all 3 methods agree: 576 (11.927935390349969%)
+Image: 6
+Pixels where LIME and SHAP agree: 1268 (23.142909290016426%)
+Pixels where LIME and RISE agree: 1174 (21.42726774958934%)
+Pixels where RISE and SHAP agree: 1313 (23.96422704873152%)
+Pixels where all 3 methods agree: 377 (6.880817667457565%)
+Image: 7
+Pixels where LIME and SHAP agree: 1566 (24.790248535697323%)
+Pixels where LIME and RISE agree: 1851 (29.301883805603925%)
+Pixels where RISE and SHAP agree: 1804 (28.55785974354915%)
+Pixels where all 3 methods agree: 970 (15.355390216875099%)
+Image: 8
+Pixels where LIME and SHAP agree: 904 (20.677035681610246%)
+Pixels where LIME and RISE agree: 612 (13.998170173833486%)
+Pixels where RISE and SHAP agree: 1294 (29.59743824336688%)
+Pixels where all 3 methods agree: 347 (7.9368709972552605%)
+Image: 9
+Pixels where LIME and SHAP agree: 592 (12.484183888654576%)
+Pixels where LIME and RISE agree: 1799 (37.93757908055673%)
+Pixels where RISE and SHAP agree: 372 (7.844791227330241%)
+Pixels where all 3 methods agree: 231 (4.871362294390552%)
+Image: 10
+Pixels where LIME and SHAP agree: 999 (17.575650950035186%)
+Pixels where LIME and RISE agree: 2054 (36.13652357494722%)
+Pixels where RISE and SHAP agree: 828 (14.567206192821956%)
+Pixels where all 3 methods agree: 534 (9.394792399718508%)
+Image: 11
+Pixels where LIME and SHAP agree: 467 (14.543755839302397%)
+Pixels where LIME and RISE agree: 1025 (31.921519775770786%)
+Pixels where RISE and SHAP agree: 494 (15.384615384615385%)
+Pixels where all 3 methods agree: 97 (3.0208657739022113%)
+Image: 12
+Pixels where LIME and SHAP agree: 585 (12.373096446700508%)
+Pixels where LIME and RISE agree: 1039 (21.975465313028764%)
+Pixels where RISE and SHAP agree: 356 (7.529610829103215%)
+Pixels where all 3 methods agree: 78 (1.649746192893401%)
+Image: 13
+Pixels where LIME and SHAP agree: 979 (28.845020624631704%)
+Pixels where LIME and RISE agree: 1045 (30.789628756629345%)
+Pixels where RISE and SHAP agree: 1069 (31.49675898644667%)
+Pixels where all 3 methods agree: 440 (12.964054213317619%)
+Image: 14
+Pixels where LIME and SHAP agree: 1955 (28.243282288355967%)
+Pixels where LIME and RISE agree: 3440 (49.69661947414042%)
+Pixels where RISE and SHAP agree: 2137 (30.87258017913898%)
+Pixels where all 3 methods agree: 1288 (18.60733891938746%)
+Image: 15
+Pixels where LIME and SHAP agree: 1176 (31.086439333862014%)
+Pixels where LIME and RISE agree: 1478 (39.06952154374835%)
+Pixels where RISE and SHAP agree: 787 (20.803595030399155%)
+Pixels where all 3 methods agree: 554 (14.644462067142479%)
+Image: 16
+Pixels where LIME and SHAP agree: 1046 (16.045405737076237%)
+Pixels where LIME and RISE agree: 1480 (22.702868538119343%)
+Pixels where RISE and SHAP agree: 1695 (26.000920386562356%)
+Pixels where all 3 methods agree: 287 (4.40251572327044%)
+Image: 17
+Pixels where LIME and SHAP agree: 1482 (39.774557165861516%)
+Pixels where LIME and RISE agree: 1337 (35.88298443370907%)
+Pixels where RISE and SHAP agree: 1165 (31.266774020397207%)
+Pixels where all 3 methods agree: 682 (18.303811057434245%)
+Image: 18
+Pixels where LIME and SHAP agree: 1797 (31.559536354056902%)
+Pixels where LIME and RISE agree: 1428 (25.079030558482614%)
+Pixels where RISE and SHAP agree: 1213 (21.303126097646647%)
+Pixels where all 3 methods agree: 399 (7.007376185458377%)
+Image: 19
+Pixels where LIME and SHAP agree: 1719 (30.179073033707866%)
+Pixels where LIME and RISE agree: 1463 (25.684691011235955%)
+Pixels where RISE and SHAP agree: 1082 (18.995786516853933%)
+Pixels where all 3 methods agree: 398 (6.987359550561798%)
+Image: 20
+Pixels where LIME and SHAP agree: 440 (10.7421875%)
+Pixels where LIME and RISE agree: 577 (14.0869140625%)
+Pixels where RISE and SHAP agree: 42 (1.025390625%)
+Pixels where all 3 methods agree: 15 (0.3662109375%)
+Image: 21
+Pixels where LIME and SHAP agree: 1097 (26.150178784266984%)
+Pixels where LIME and RISE agree: 1010 (24.076281287246722%)
+Pixels where RISE and SHAP agree: 681 (16.233611442193087%)
+Pixels where all 3 methods agree: 137 (3.265792610250298%)
+Image: 22
+Pixels where LIME and SHAP agree: 1473 (24.49285001662787%)
+Pixels where LIME and RISE agree: 3139 (52.194878616561354%)
+Pixels where RISE and SHAP agree: 2247 (37.362820086464914%)
+Pixels where all 3 methods agree: 1095 (18.20751579647489%)
+Image: 23
+Pixels where LIME and SHAP agree: 1454 (35.036144578313255%)
+Pixels where LIME and RISE agree: 967 (23.301204819277107%)
+Pixels where RISE and SHAP agree: 651 (15.686746987951807%)
+Pixels where all 3 methods agree: 330 (7.951807228915663%)
+Image: 24
+Pixels where LIME and SHAP agree: 1161 (29.303382130237253%)
+Pixels where LIME and RISE agree: 819 (20.671378091872793%)
+Pixels where RISE and SHAP agree: 857 (21.630489651691065%)
+Pixels where all 3 methods agree: 59 (1.4891468955073195%)
+Image: 25
+Pixels where LIME and SHAP agree: 4596 (42.42200479970463%)
+Pixels where LIME and RISE agree: 5441 (50.221524829241275%)
+Pixels where RISE and SHAP agree: 4872 (44.969540335979325%)
+Pixels where all 3 methods agree: 2804 (25.881484216355915%)
+Image: 26
+Pixels where LIME and SHAP agree: 2419 (36.29951980792317%)
+Pixels where LIME and RISE agree: 1487 (22.31392557022809%)
+Pixels where RISE and SHAP agree: 1878 (28.181272509003602%)
+Pixels where all 3 methods agree: 571 (8.56842737094838%)
+Image: 27
+Pixels where LIME and SHAP agree: 1897 (24.058338617628408%)
+Pixels where LIME and RISE agree: 2255 (28.598604946100192%)
+Pixels where RISE and SHAP agree: 2182 (27.672796448953708%)
+Pixels where all 3 methods agree: 961 (12.187698161065313%)
+Image: 28
+Pixels where LIME and SHAP agree: 2926 (48.16460905349794%)
+Pixels where LIME and RISE agree: 1856 (30.551440329218106%)
+Pixels where RISE and SHAP agree: 1431 (23.555555555555557%)
+Pixels where all 3 methods agree: 1127 (18.551440329218106%)
+Image: 29
+Pixels where LIME and SHAP agree: 869 (18.552519214346713%)
+Pixels where LIME and RISE agree: 2005 (42.805294619982924%)
+Pixels where RISE and SHAP agree: 990 (21.135781383432963%)
+Pixels where all 3 methods agree: 582 (12.42527754056362%)
+Image: 30
+Pixels where LIME and SHAP agree: 540 (12.348502172421679%)
+Pixels where LIME and RISE agree: 889 (20.329293391264578%)
+Pixels where RISE and SHAP agree: 1218 (27.852732677795565%)
+Pixels where all 3 methods agree: 126 (2.8813171735650585%)
+Image: 31
+Pixels where LIME and SHAP agree: 375 (8.72905027932961%)
+Pixels where LIME and RISE agree: 590 (13.733705772811918%)
+Pixels where RISE and SHAP agree: 402 (9.35754189944134%)
+Pixels where all 3 methods agree: 80 (1.86219739292365%)
+Image: 32
+Pixels where LIME and SHAP agree: 982 (18.35514018691589%)
+Pixels where LIME and RISE agree: 414 (7.738317757009346%)
+Pixels where RISE and SHAP agree: 1867 (34.89719626168224%)
+Pixels where all 3 methods agree: 64 (1.1962616822429906%)
+Image: 33
+Pixels where LIME and SHAP agree: 1768 (33.05908750934929%)
+Pixels where LIME and RISE agree: 1588 (29.69334330590875%)
+Pixels where RISE and SHAP agree: 1137 (21.260284218399402%)
+Pixels where all 3 methods agree: 798 (14.921465968586388%)
+Image: 34
+Pixels where LIME and SHAP agree: 2049 (36.18862592723419%)
+Pixels where LIME and RISE agree: 1967 (34.74037442599788%)
+Pixels where RISE and SHAP agree: 1870 (33.02719886965736%)
+Pixels where all 3 methods agree: 1138 (20.098904980572236%)
+Image: 35
+Pixels where LIME and SHAP agree: 2298 (35.08932661475034%)
+Pixels where LIME and RISE agree: 2122 (32.40189341884257%)
+Pixels where RISE and SHAP agree: 1711 (26.126126126126128%)
+Pixels where all 3 methods agree: 885 (13.513513513513514%)
+Image: 36
+Pixels where LIME and SHAP agree: 1412 (32.11280418467137%)
+Pixels where LIME and RISE agree: 1353 (30.770980213782124%)
+Pixels where RISE and SHAP agree: 1402 (31.885376392995223%)
+Pixels where all 3 methods agree: 738 (16.78417102569934%)
+Image: 37
+Pixels where LIME and SHAP agree: 1785 (23.946874161524015%)
+Pixels where LIME and RISE agree: 3204 (42.983632948752344%)
+Pixels where RISE and SHAP agree: 1658 (22.243090957874966%)
+Pixels where all 3 methods agree: 975 (13.08022538234505%)
+Image: 38
+Pixels where LIME and SHAP agree: 973 (23.553618978455578%)
+Pixels where LIME and RISE agree: 872 (21.108690389736143%)
+Pixels where RISE and SHAP agree: 439 (10.626966836117163%)
+Pixels where all 3 methods agree: 104 (2.517550229968531%)
+Image: 39
+Pixels where LIME and SHAP agree: 1474 (23.404255319148938%)
+Pixels where LIME and RISE agree: 2597 (41.23531279771356%)
+Pixels where RISE and SHAP agree: 1845 (29.295014290250872%)
+Pixels where all 3 methods agree: 960 (15.242934264845983%)
+Image: 40
+Pixels where LIME and SHAP agree: 1199 (18.864065449968535%)
+Pixels where LIME and RISE agree: 2717 (42.74701069855255%)
+Pixels where RISE and SHAP agree: 1539 (24.21334172435494%)
+Pixels where all 3 methods agree: 778 (12.24040276903713%)
+Image: 41
+Pixels where LIME and SHAP agree: 1260 (21.244309559939303%)
+Pixels where LIME and RISE agree: 2110 (35.575788231326925%)
+Pixels where RISE and SHAP agree: 1348 (22.72803911650649%)
+Pixels where all 3 methods agree: 746 (12.577980104535492%)
+Image: 42
+Pixels where LIME and SHAP agree: 1548 (26.754234358797095%)
+Pixels where LIME and RISE agree: 1522 (26.304873833390943%)
+Pixels where RISE and SHAP agree: 2342 (40.477013480815764%)
+Pixels where all 3 methods agree: 675 (11.666090563428966%)
+Image: 43
+Pixels where LIME and SHAP agree: 1211 (23.61544461778471%)
+Pixels where LIME and RISE agree: 812 (15.834633385335414%)
+Pixels where RISE and SHAP agree: 686 (13.377535101404057%)
+Pixels where all 3 methods agree: 0 (0.0%)
+Image: 44
+Pixels where LIME and SHAP agree: 861 (17.661538461538463%)
+Pixels where LIME and RISE agree: 1892 (38.81025641025641%)
+Pixels where RISE and SHAP agree: 1398 (28.676923076923078%)
+Pixels where all 3 methods agree: 718 (14.728205128205127%)
+Image: 45
+Pixels where LIME and SHAP agree: 1064 (26.875473604445567%)
+Pixels where LIME and RISE agree: 738 (18.641070977519576%)
+Pixels where RISE and SHAP agree: 1244 (31.422076281889368%)
+Pixels where all 3 methods agree: 482 (12.17479161404395%)
+Image: 46
+Pixels where LIME and SHAP agree: 1541 (30.660565061679268%)
+Pixels where LIME and RISE agree: 1103 (21.945881416633505%)
+Pixels where RISE and SHAP agree: 1611 (32.0533227218464%)
+Pixels where all 3 methods agree: 629 (12.51492240350179%)
+Image: 47
+Pixels where LIME and SHAP agree: 1082 (17.946591474539726%)
+Pixels where LIME and RISE agree: 1593 (26.42229225410516%)
+Pixels where RISE and SHAP agree: 395 (6.55166694310831%)
+Pixels where all 3 methods agree: 174 (2.886050754685686%)
+Image: 48
+Pixels where LIME and SHAP agree: 714 (16.26053290822136%)
+Pixels where LIME and RISE agree: 999 (22.751081758141652%)
+Pixels where RISE and SHAP agree: 338 (7.697563197449329%)
+Pixels where all 3 methods agree: 175 (3.9854247324071967%)
+Image: 49
+Pixels where LIME and SHAP agree: 1500 (30.13863773357444%)
+Pixels where LIME and RISE agree: 1080 (21.699819168173597%)
+Pixels where RISE and SHAP agree: 1138 (22.865179827205143%)
+Pixels where all 3 methods agree: 744 (14.948764315852923%)
+Image: 50
+Pixels where LIME and SHAP agree: 589 (12.812703937350445%)
+Pixels where LIME and RISE agree: 886 (19.27343919947792%)
+Pixels where RISE and SHAP agree: 68 (1.4792255819012399%)
+Pixels where all 3 methods agree: 36 (0.7831194257124211%)
+Image: 51
+Pixels where LIME and SHAP agree: 330 (9.532062391681109%)
+Pixels where LIME and RISE agree: 549 (15.8578856152513%)
+Pixels where RISE and SHAP agree: 0 (0.0%)
+Pixels where all 3 methods agree: 0 (0.0%)
+Image: 52
+Pixels where LIME and SHAP agree: 1330 (22.10403855742064%)
+Pixels where LIME and RISE agree: 2468 (41.0171181651986%)
+Pixels where RISE and SHAP agree: 1244 (20.674754861226525%)
+Pixels where all 3 methods agree: 431 (7.163038058833306%)
+Image: 53
+Pixels where LIME and SHAP agree: 1842 (27.578978889055247%)
+Pixels where LIME and RISE agree: 2270 (33.987123820931274%)
+Pixels where RISE and SHAP agree: 2038 (30.513549932624645%)
+Pixels where all 3 methods agree: 538 (8.05509806857314%)
+Image: 54
+Pixels where LIME and SHAP agree: 1857 (25.176247288503255%)
+Pixels where LIME and RISE agree: 1728 (23.427331887201735%)
+Pixels where RISE and SHAP agree: 1878 (25.460954446854664%)
+Pixels where all 3 methods agree: 609 (8.25650759219089%)
