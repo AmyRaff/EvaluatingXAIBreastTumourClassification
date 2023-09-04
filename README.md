@@ -1,6 +1,6 @@
 Evaluating Explainable AI Techniques for Breast Tumour Classification
 -
-This repository contains the supporting code for this report - https://www.research.ed.ac.uk/en/publications/explainable-artificial-intelligence-for-breast-tumour-classificat. 
+This repository contains the supporting code for this report - https://www.research.ed.ac.uk/en/publications/explainable-artificial-intelligence-for-breast-tumour-classificat - as published in iMIMIC 2022.
 
 Code Overview
 -
